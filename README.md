@@ -16,4 +16,4 @@ feed for the same analysis.
 - Amazon Kinesis
  
 
-![alt Architecture](http://url/to/img.png)
+![alt Architecture](https://github.com/nish18071985/CS-410/blob/master/sentiment-analysis/twitter-dashboard-sentimentAnalysis.gif)
